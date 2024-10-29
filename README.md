@@ -1,2 +1,56 @@
-# MindReaderJS
- MindReaderJS MindReaderJS é um jogo interativo desenvolvido em JavaScript onde o usuário tenta adivinhar um número misterioso gerado aleatoriamente pelo sistema. Este projeto oferece uma experiência divertida e simples para praticar lógica e habilidades de dedução, sendo ideal para quem quer melhorar ou testar suas habilidades de adivinhação!  Funcionalidades Geração de número aleatório: O sistema escolhe um número secreto dentro de um intervalo predefinido. Tentativas limitadas: O jogador tem um número limitado de tentativas para adivinhar o número correto. Feedback em tempo real: O jogo exibe dicas como "tente um número maior" ou "tente um número menor" para guiar o jogador em direção à resposta. Pontuação: Registra o número de tentativas feitas até a adivinhação correta. Tecnologias Utilizadas JavaScript: Lógica do jogo e interações do usuário. HTML/CSS: Interface básica para interação com o jogador.
+# 🎩 MindReaderJS
+
+**MindReaderJS** é um jogo de adivinhação simples e divertido, onde o sistema gera um número secreto e o jogador tenta adivinhar qual é! 🔮 Ideal para desafiar suas habilidades de dedução e lógica usando um pouco de sorte e persistência! 😄
+
+---
+
+## 🕹️ Funcionalidades
+
+- **🔢 Geração de Número Aleatório**: O sistema escolhe um número misterioso para ser adivinhado.
+- **⚡ Feedback Imediato**: Após cada tentativa, você recebe uma dica para ajustar seu palpite ("Mais alto" ou "Mais baixo").
+- **💯 Pontuação**: Veja quantas tentativas foram necessárias até acertar.
+- **🕰️ Limite de Tentativas (opcional)**: Configure o jogo para adicionar um pouco de pressão! 😅
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **JavaScript**: Para a lógica do jogo e interações do usuário.
+- **HTML/CSS**: Para a interface simples e amigável ao jogador.
+
+---
+
+## 🎮 Como Jogar
+
+1. **Adivinhe**: Insira seu palpite e clique em "Adivinhar".
+2. **Dica**: O jogo irá indicar se você deve tentar um número mais alto ou mais baixo.
+3. **Objetivo**: Adivinhe o número correto no menor número de tentativas possível! Boa sorte! 🍀
+
+---
+
+## 📂 Estrutura do Projeto
+
+```plaintext
+MindReaderJS/
+├── index.html      # Interface do jogo
+├── script.js       # Lógica principal do jogo
+└── style.css       # Estilos básicos
+```
+---
+
+## 📦 Como Rodar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuusuario/MindReaderJS.git
+   ```
+---
+
+## 📜 Licença
+
+Este projeto é de código aberto e está licenciado sob a licença MIT.
+
+---
+
+> Criado com ❤️ e JavaScript. Divirta-se e veja se consegue ler a mente do sistema! 🧠💡
+
