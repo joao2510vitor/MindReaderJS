@@ -22,7 +22,7 @@
 
 ## 🎮 Como Jogar
 
-1. **Adivinhe**: Insira seu palpite e clique em "Adivinhar".
+1. **Adivinhe**: Insira seu palpite e clique em "Chutar".
 2. **Dica**: O jogo irá indicar se você deve tentar um número mais alto ou mais baixo.
 3. **Objetivo**: Adivinhe o número correto no menor número de tentativas possível! Boa sorte! 🍀
 
@@ -31,7 +31,8 @@
 ## 📂 Estrutura do Projeto
 
 ```plaintext
-MindReaderJS/
+MindReaderJS/game
+├── img
 ├── index.html      # Interface do jogo
 ├── script.js       # Lógica principal do jogo
 └── style.css       # Estilos básicos
