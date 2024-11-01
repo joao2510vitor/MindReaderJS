@@ -2,11 +2,6 @@ let numeroMaximo = 4;
 let listaDeNumerosSorteados = [];
 let numeroSecreto = gerarNumeroAleatorio(numeroMaximo);
 let tentativas = 1;
-// let titulo = document.querySelector('h1');
-// titulo.innerHTML = 'Mind Reader';
-//
-// let paragrafo = document.querySelector('p');
-// paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
 
 function exibirTextoNaTela(tag,texto) {
     let campo = document.querySelector(tag);
