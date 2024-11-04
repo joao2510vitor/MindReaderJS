@@ -45,6 +45,10 @@ MindReaderJS/game
    ```bash
    git clone https://github.com/joao2510vitor/MindReaderJS.git
    ```
+2. Acesse o link abaixo para visualizar o deploy do projeto hospedado na Vercel:
+   ```bash
+   https://mind-reader-js.vercel.app
+   ```
 ---
 
 ## 📜 Licença
